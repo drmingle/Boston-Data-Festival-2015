@@ -6,4 +6,5 @@ GitHub sometimes doesn't like Jupyter Notebooks haing JavaScript, Custom CSS, or
 Below are the direct links to the exercises:
 >
 [Exercise 1] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.1%29.ipynb)
+>[Exercise 2] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.2%29.ipynb)
 
