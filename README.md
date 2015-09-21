@@ -4,5 +4,6 @@ A practical approach to using Data Science for real-world tasks associated with 
 GitHub sometimes doesn't like Jupyter Notebooks haing JavaScript, Custom CSS, or HTML embedded. If you are not able to get view the workbooks before donwloading. You can always use http://nbviewer.ipython.org/:
 
 Below are the direct links to the exercises:
+>
 [Exercise 1] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.1%29.ipynb)
 
