@@ -10,6 +10,7 @@ Below are the direct links to the exercises:
 >[Exercise 3] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.3%29.ipynb)
 >[Exercise 4] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.4%29.ipynb)
 >[Exercise 5] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.5%29.ipynb)
+>[Exercise 6] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Data%20Science%20with%20Jupyter%20%28Ex.6%29.ipynb)
 
 
 
