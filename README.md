@@ -12,5 +12,6 @@ Below are the direct links to the exercises:
 >[Exercise 5] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Exercises/Ex.5%20-%20Data%20Science%20with%20Jupyter.ipynb)
 >[Exercise 6] (http://nbviewer.ipython.org/github/drmingle/Boston-Data-Festival-2015/blob/master/Exercises/Ex.6%20-%20Data%20Science%20with%20Jupyter.ipynb)
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/drmingle/Boston-Data-Festival-2015)
 
 
